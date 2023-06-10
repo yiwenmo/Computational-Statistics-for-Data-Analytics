@@ -2,4 +2,4 @@
 Homework for Statistical Analysis ( Prof. Wang)
 
 - HW1_CSV-Processing: Processing the real rain data
-- HW2_RV-PD-Fit: 
+- HW2_RV-PD-Fit: Calculate probability density function and visualize data
